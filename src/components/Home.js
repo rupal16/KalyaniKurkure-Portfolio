@@ -23,7 +23,7 @@ function Home(){
         <div className='home-section'>
             {/* <div className="home-pic"> */}
             <div className='home-section-top'>
-                <img className="home-pic" src={profile} />
+                <img className="home-pic" src={profile} alt='profile img' />
                 {/* </div> */}
                 <div className='home-right'>
                     <div className='home-name'>Kalyani Sunil Kurkure</div>

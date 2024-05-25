@@ -5,7 +5,6 @@ import Home from './components/Home';
 import { Routes, Route } from 'react-router-dom';
 import Resume from './components/Resume';
 import Projects from './components/Projects';
-import Contact from './components/Contact';
 import Certificates from './components/Certificates';
 
 function App() {
