@@ -17,7 +17,7 @@ function Footer(){
             </div>
             <div>
                 <br />
-                <div className='footer-desc'>Developed by <Link to={'https://www.linkedin.com/in/rupal-jain16/'}>Rupal Jain</Link></div>
+                {/* <div className='footer-desc'>Developed by <Link to={'https://www.linkedin.com/in/rupal-jain16/'}>Rupal Jain</Link></div> */}
             </div>
         </div>
     )

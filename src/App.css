@@ -93,6 +93,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 2rem;
 }
 
 .break-line {
@@ -137,7 +138,7 @@
 
 .footer-section {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 1rem 4rem;
   height: 20vh;
 }
