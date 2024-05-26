@@ -1,7 +1,6 @@
 import '../App.css';
 import { FaLinkedin } from 'react-icons/fa';
 import { SiGmail } from 'react-icons/si';
-import { Link } from 'react-router-dom';
 
 function Footer(){
     return(
